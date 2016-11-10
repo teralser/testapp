@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Acceptic Test</string>
+    <string name="dummy_page">Dummy page</string>
+    <string name="btn_logout_from_google">Logout from Google</string>
+    <string name="btn_revoke_access">Revoke Access</string>
+    <string name="loading">Loading…</string>
+    <string name="user_data">User data</string>
+    <string name="service_control">Service control</string>
+    <string name="stop_stop_service">Service start/stop</string>
+    <string name="service_stopped">Service stopped</string>
+    <string name="random_numbers_generator">Random numbers generator service</string>
+    <string name="random_number">Random number: %d</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "345644342201",
+    "project_id": "acceptictest"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345644342201:android:a66c410a0783c567",
+        "android_client_info": {
+          "package_name": "testapp.acceptic.alext.testapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345644342201-jcjhmk8cccce4bk19uru75tnl84p8bum.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "testapp.acceptic.alext.testapp",
+            "certificate_hash": "34ADE99CEDF0CD26518018C74B0635DE140ABD15"
+          }
+        },
+        {
+          "client_id": "345644342201-vq46540f3ea23h3pullcp99c40cegm91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl1BPUVZDa7nsOblNrqZx0uU2w_DF5fBc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
